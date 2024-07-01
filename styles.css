@@ -1,15 +1,24 @@
-@font-face {
-	font-family "SALongBeach";
-	src: url("N1more.github.io/SALongBeach.otf") format("otf");
+body {
+	font-family: "Times New Roman", Arial, sans-serif;
+	font-size: 24px;
+	color: #0a060d;
+	background-color: #e7bfff;
+	text-align: center;
 }
 
-body {
-	background-color: #e7bfff;
-	text-align: center-right;
-	font-family: "SALongBeach", sans-serif;
+h1 {
+	font-family: "Times New Roman", Arial, sans-serif;
+	font-size: 36px;
+	color: #0a060d;
+	font-weight: bold;
+}
+	
+p {
+	font-family: "Times New Roman", Arial, sans-serif;
+	line-height: 1.5;
+	color: #0a060d;
 }
 
 .centered-text {
 	margin-top: 80px;
-	margin-right: 80px;
 }
