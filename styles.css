@@ -1,8 +1,15 @@
+@font-face {
+	font-family "SALongBeach";
+	src: url("SALongBeach.otf", sans-serif)
+}
+
 body {
 	background-color: #e7bfff;
-	text-align: center;
+	text-align: center-right;
+	font-family: "SALongBeach", sans-serif;
 }
 
 .centered-text {
-	margin-top: 50px;
+	margin-top: 80px;
+	margin-right: 80px;
 }
